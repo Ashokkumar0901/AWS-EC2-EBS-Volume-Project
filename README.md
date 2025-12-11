@@ -35,7 +35,7 @@ In this project I performed:
 - AWS EC2  
 - AWS EBS (gp3)  
 - Amazon Linux 2  
-- SSH (PowerShell / PuTTY / EC2 Connect)  
+- SSH (EC2 Connect)  
 - Linux filesystem commands  
 
 ---
