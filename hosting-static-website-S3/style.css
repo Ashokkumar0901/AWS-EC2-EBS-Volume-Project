@@ -1,0 +1,22 @@
+html {
+        font-size: large;
+    }
+     body {
+            font-family: Arial, sans-serif;
+            background-color: #e6a5bc;
+            text-align: center;
+            padding-top: 50px;
+        }
+
+
+    a{
+        color: aliceblue;
+    }
+
+    a:visited {
+        color: rgb(20, 10, 10);
+    }
+
+    a:hover, a:active {
+        COLOR: #1c0d0d;
+    }
